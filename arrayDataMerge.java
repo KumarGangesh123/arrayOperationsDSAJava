@@ -1,5 +1,10 @@
 /* this is the "arrayDataMerge.java" file in which the merge operation has written */
 
+/* first of all you have complier the "arrays.java" file to create a package "array" then after 
+    compile ->  javac -d . arrayDataMerge.java
+    run ->  java array.arrayDataInsert
+    
+*/
 
 package array;
 import java.util.Scanner;
